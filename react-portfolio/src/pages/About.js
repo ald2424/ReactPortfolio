@@ -29,7 +29,7 @@ function About(){
         <div className="row sing-post no-gutters pW">
             <div className="col-sm-12">
                  <div className="image-wrapper float-left pr-3 wrapper">
-                  <img className="img-fluid mt-5 pt-2 mr-3 ml-5"src={require("./assets/images/portfolio-about-me.jpg")} alt="portfolio picture"    width="220" height="260"/>
+                  <img className="img-fluid mt-5 pt-2 mr-3 ml-5"src={require("../assets/images/portfolio-about-me.jpg")} alt="portfolio picture"    width="220" height="260"/>
                   </div>
               <div className="single-post-content-wrapper unwrap p-5">
               <p>
